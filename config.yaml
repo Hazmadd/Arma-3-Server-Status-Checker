@@ -1,0 +1,4 @@
+- name: Server 1
+  id: 1234567
+- name: Server 2
+  id: 8901234
